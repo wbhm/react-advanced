@@ -12,7 +12,7 @@
     "test": "jest --watch"
   },
   "author": "wbh moore",
-  "license": "ISC",
+  "license": "MIT",
   "babel": {
     "presets": [
       "react",
@@ -30,6 +30,7 @@
     "jest": "^23.5.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+    "react-test-renderer": "^16.4.2",
     "webpack": "^4.16.5",
     "webpack-cli": "^3.1.0"
   },
