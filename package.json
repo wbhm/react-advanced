@@ -1,0 +1,43 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "description": "learning react from scratch",
+  "main": "lib\\server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "nodemon --exec babel-node lib/server.js",
+    "webpack": "webpack -wd",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wbh moore",
+  "license": "ISC",
+  "babel": {
+    "presets": [
+      "react",
+      "env",
+      "stage-2"
+    ]
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^8.2.6",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
+    "eslint": "^5.3.0",
+    "eslint-plugin-react": "^7.10.0",
+    "jest": "^23.5.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
