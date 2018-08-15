@@ -3,9 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="8043433d-dc1c-4c73-b30b-c5cd1c430c89" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/lib/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/components/Article.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/Article.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/components/__test__/ArticleList.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/__test__/ArticleList.test.js" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/public/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundle.js" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -74,7 +78,7 @@
         <counts>
           <entry key="ejs" value="4" />
           <entry key="gitignore" value="1" />
-          <entry key="js" value="45" />
+          <entry key="js" value="46" />
           <entry key="json" value="6" />
         </counts>
       </usages-collector>
@@ -82,7 +86,7 @@
         <counts>
           <entry key="EJS" value="4" />
           <entry key="JSON" value="6" />
-          <entry key="JavaScript" value="45" />
+          <entry key="JavaScript" value="46" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -145,13 +149,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/components/App.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state>
               <caret column="26" selection-start-column="26" selection-end-column="26" />
+=======
+            <state relative-caret-position="207">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/lib/components/Article.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
@@ -165,6 +178,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
               <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+=======
+        <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -303,13 +322,21 @@
       <workItem from="1533922993808" duration="8688000" />
       <workItem from="1534157035288" duration="2310000" />
       <workItem from="1534168064596" duration="102000" />
+<<<<<<< Updated upstream
       <workItem from="1534168463156" duration="21129000" />
       <workItem from="1534328157377" duration="1062000" />
+=======
+      <workItem from="1534168463156" duration="21998000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="33291000" />
+=======
+    <option name="totallyTimeSpent" value="33098000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="983" extended-state="6" />
@@ -458,6 +485,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/lib/components/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -469,6 +497,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
+=======
+    <entry file="file://$PROJECT_DIR$/lib/__tests__/DataApi.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/components/__test__/ArticleList.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
