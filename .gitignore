@@ -62,3 +62,6 @@ typings/
 
 # webstorm project files
 .idea
+
+#webpack build
+public
