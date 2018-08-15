@@ -64,4 +64,4 @@ typings/
 .idea
 
 #webpack build
-public
+public/
